@@ -1,0 +1,51 @@
+[
+    {
+        "cliente": "2001",
+        "producto": "1001",
+        "cantidad": 2,
+        "total": 118000.0,
+        "fecha_hora": "2024-05-13 03:19:17"
+    },
+    {
+        "cliente": "000012",
+        "producto": "3002",
+        "cantidad": 1,
+        "total": 1800000.0,
+        "fecha_hora": "2024-05-13 03:27:19"
+    },
+    {
+        "cliente": "2001",
+        "producto": "3001",
+        "cantidad": 2,
+        "total": 9000000.0,
+        "fecha_hora": "2024-05-13 03:34:52"
+    },
+    {
+        "cliente": "2001",
+        "producto": "3001",
+        "cantidad": 10,
+        "total": 45000000.0,
+        "fecha_hora": "2024-05-13 04:05:53"
+    },
+    {
+        "cliente": "1011097231",
+        "producto": "4001",
+        "cantidad": 1,
+        "total": 85000.0,
+        "fecha_hora": "2024-05-13 06:04:41"
+    },
+    {
+        "cliente": 1011097231,
+        "producto": "2002",
+        "cantidad": 1,
+        "total": 30000.0,
+        "fecha_hora": "2024-05-14 12:59:38"
+    },
+    {
+        "cliente": 1011097231,
+        "producto": "4002",
+        "cantidad": 1,
+        "total": 40000.0,
+        "fecha_hora": "2024-05-14 13:00:53"
+    }
+]

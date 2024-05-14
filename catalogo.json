@@ -1,0 +1,72 @@
+{
+    "productos": [
+        {
+            "ref": "1001",
+            "gb": "100",
+            "incluye": "Llamadas ilimitadas y sms",
+            "app": "musica y whatsapp",
+            "precio": "59.000 COP",
+            "tipo": "post pago"
+        },
+        {
+            "ref": "1002",
+            "gb": "40",
+            "incluye": "sms",
+            "app": "whatsapp",
+            "precio": "30.000 COP",
+            "tipo": "post pago"
+        },
+        {
+            "ref": "2001",
+            "gb": "60Gb",
+            "incluye": "sms",
+            "app": "musica",
+            "precio": "65.000 COP",
+            "tipo": "prepago"
+        },
+        {
+            "ref": "2002",
+            "gb": "16Gb",
+            "incluye": "sms llamadas",
+            "app": "musica",
+            "precio": "30.000 COP",
+            "tipo": "prepago"
+        },
+        {
+            "ref": "3001",
+            "modelo": "Iphone 15",
+            "espacio": "256 GB",
+            "ram": "6",
+            "camara": "48 MP",
+            "precio": "4.500.000 COP",
+            "tipo": "tecnologia"
+        },
+        {
+            "ref": "3002",
+            "modelo": "Realme",
+            "espacio": "256 GB",
+            "ram": "16",
+            "camara": "64 MP",
+            "precio": "1.800.000 COP",
+            "tipo": "tecnologia"
+        },
+        {
+            "ref": "4001",
+            "tipo de internet": "fibra optica",
+            "gb": "200",
+            "capacidad de subida": "200",
+            "capacidad de bajada": "30",
+            "precio": "85.000 COP",
+            "tipo": "plan hogar"
+        },
+        {
+            "ref": "4002",
+            "tipo de internet": "cable",
+            "gb": "100 GB",
+            "capacidad de subida": "85",
+            "capacidad de bajada": "15",
+            "precio": "40.000 COP",
+            "tipo": "plan hogar"
+        }
+    ]
+}

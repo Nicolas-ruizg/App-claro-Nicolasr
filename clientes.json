@@ -1,0 +1,67 @@
+{
+    "clientes": [
+        {
+            "nombre": "alvaritoo",
+            "documento": "000012",
+            "edad": "20",
+            "direccion": "asdasd",
+            "telefono": "22222",
+            "correo": "@mk",
+            "tipoc": "fiel"
+        },
+        {
+            "nombre": "juan2",
+            "documento": 2001,
+            "edad": 19,
+            "direccion": "campus",
+            "telefono": "p",
+            "correo": "@@@",
+            "tipoc": "recurrente"
+        },
+        {
+            "nombre": "Nicolas Ruiz Giraldo",
+            "documento": 1011097231,
+            "edad": 17,
+            "direccion": "campus",
+            "telefono": "3194215464",
+            "correo": "nicorrugi@gmail.com",
+            "tipoc": "fiel"
+        },
+        {
+            "nombre": "Silvia Sofia Diaz",
+            "documento": "79510467",
+            "edad": 0,
+            "direccion": "lagos",
+            "telefono": "300",
+            "correo": "@@",
+            "tipoc": "recurrente"
+        },
+        {
+            "nombre": "k",
+            "documento": "0",
+            "edad": 0,
+            "direccion": "s",
+            "telefono": "s",
+            "correo": "s",
+            "tipoc": "recurrente"
+        },
+        {
+            "nombre": "s",
+            "documento": "s",
+            "edad": 0,
+            "direccion": "s",
+            "telefono": "s",
+            "correo": "s",
+            "tipoc": "nuevo"
+        },
+        {
+            "nombre": "tutu",
+            "documento": 678,
+            "edad": 3,
+            "direccion": "",
+            "telefono": "jjj",
+            "correo": "kwjuarhiej@",
+            "tipoc": "nuevo"
+        }
+    ]
+}
