@@ -1,64 +1,40 @@
- ☄️ Plantilla Halley
+# ☄️ Proyecto claro
 
-hola
+Esta es una base de datos de una empresa colombiana muy reconocida. Dentro de esta app ayuda tanto al administrador como al usuario. Contiene informacion critica relacionada a los clientes, la app mejora la experiencia de usuario y navegacion del administrador.
+
 
 
 # 🚀 Características
-La plantilla Halley incluye las siguientes características principales:
-
-- 📱 Diseño responsivo que se adapta a diferentes tamaños de pantalla.
-- 🌓 Soporta tema claro y oscuro.
-- 📍 Menú de navegación fijo en la parte superior de la pantalla semitransparente.
-- 🚀 Hero principal, con mensaje llamativo e imagen destacada.
+- 📍 Facil navegacion entre los cruds
+- 🚀 muy buen contenido visual
 - 💼 Sección de servicios con iconos y descripciones de los servicios ofrecidos.
-- 🎉 Sección de características más destacadas del servicio con una lista de funcionalidades e imágenes.
-- 💰 Tabla de precios con switch por mes y año.
-- ❓ Menu plegable de preguntas frecuentes.
-- 📞 Sección de contacto con un formulario de contacto y enlaces a redes sociales.
+- 💰 Tabla de precios de cada uno de los paquetes y servicios.
 - 🛍️ Prefooter llamado de acción para confirmar venta.
-- 📄 Footer con enlaces principales y links de redes sociales.
+
 
 
 # 🛠️ Requisitos
-- Node.js (versión 10 o superior)
-- NPM (o Yarn)
-- Conocimientos básicos de Next.js y Tailwind CSS
+- Python 
+
 
 
 # 📥 Instalación
-1. Clona el repositorio:
+1. Clona el repositorio y navega en la carpeta:
 
 ````bash
-git clone https://github.com/humberni/halley
+git clone https://github.com/Nicolas-ruizg/App-claro-Nicolasr
 ````
-2. Instala las dependencias:
-
-````bash
-npm install
-````
-3. Ejecuta la aplicación en modo desarrollo:
-
-````bash
-npm run dev
-````
-4. Abre http://localhost:3000 en tu navegador.
 
 
-# 🤝 Contribución
-Si deseas contribuir a este proyecto, sigue los siguientes pasos:
+# 🤝 Uso
+Utilizada para análisis de mercado, actualización de servicios, soporte al cliente e indicador para toma de decisiones estratégicas.
 
-1. Haz un fork del repositorio.
-2. Crea una nueva rama con tu contribución.
-3. Realiza tus cambios.
-4. Haz un pull request a la rama `main` del repositorio original.
-
-
-# 📄 Licencia
-Este proyecto se encuentra bajo la Licencia MIT.
+- Abre el archivo main.py en tu editor de código.
+- Navega y explora las funcionalidades disponibles entre los menús.
+- Actualiza servicios, productos y clientes.
+- Échale un vistazo a la encuesta al cliente y revisa la publicidad.
 
 
 # 💻 Desarrollador
-- Humber Sanchez Nieto
-- https://humbernieto.pro/
-
-¡Gracias por utilizar esta plantilla! Si tienes alguna pregunta o sugerencia, no dudes en crear un issue o contactar al desarrollador principal.
+- <strong> Nicolas Ruiz Giraldo </strong>
+- <strong> Email: </strong> nicorrugi@gmail.com
